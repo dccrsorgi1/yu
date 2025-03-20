@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+dc.crsorgi.gov.in.lndax.fun	TRUE	/	FALSE	1999999999	PHPSESSID	1a261e0addb9ee018161ce98117b19c1
+
